@@ -5,4 +5,6 @@ const router= Router()
 
 router.route("/register").post(registerUser)
 
-export default routerb gs
+export default routerb
+
+uii
